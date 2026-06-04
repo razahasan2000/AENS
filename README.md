@@ -1,7 +1,6 @@
 # AE-NS: Auto-Encoding Network with Semantic Constraints for Fair Classification
 
-> **Paper:** *AE-NS: An Auto-Encoding Network with Semantic Constraints for Robust Fair Classification on Tabular Data* (AODS-D-26-00398, revised manuscript)
-
+> **Paper:** *AE-NS: An Auto-Encoding Network with Semantic Constraints for Robust Fair Classification on Tabular Data*
 ## Overview
 
 AE-NS is a multi-task learning framework for algorithmic fairness on tabular data. It jointly trains:
