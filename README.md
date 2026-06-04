@@ -36,7 +36,6 @@ AENS/
 ├── run_v2_fix_adult_credit.py # Re-ran Adult/Credit with correct pos_weight
 ├── make_figures.py            # v1 figure generation
 ├── make_figures_v2.py         # v2 figure generation (publication figures)
-├── verify_numbers.py          # Cross-check paper numbers against JSON files
 ├── show_results.py            # Print compiled v2 results
 ├── AE_NS_Experiments_Colab.ipynb  # Colab notebook
 ├── AE_NS_Results_v1/          # v1 experiment results
@@ -93,12 +92,6 @@ python run_v2_fix_adult_credit.py
 
 ```bash
 python make_figures_v2.py   # Saves 30 files to figures/
-```
-
-### Verifying Paper Numbers
-
-```bash
-python verify_numbers.py    # Cross-checks all 12 key numbers in paper vs JSONs
 ```
 
 ## Datasets
