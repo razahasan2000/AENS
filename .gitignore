@@ -1,0 +1,8 @@
+.venv/
+.venv_gpu/
+__pycache__/
+*.pyc
+AE_NS_Results_DryRun/
+*.log
+*.err
+*.msi
