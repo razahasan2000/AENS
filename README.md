@@ -38,8 +38,6 @@ AENS/
 ├── make_figures_v2.py         # v2 figure generation (publication figures)
 ├── verify_numbers.py          # Cross-check paper numbers against JSON files
 ├── show_results.py            # Print compiled v2 results
-├── paper_revision.md          # Revised manuscript (Markdown source of truth)
-├── response_letter.md         # Point-by-point reviewer response
 ├── AE_NS_Experiments_Colab.ipynb  # Colab notebook
 ├── AE_NS_Results_v1/          # v1 experiment results
 │   ├── adult/compas/credit/   # Per-dataset JSONs (baselines, sensitivity, ablation)
